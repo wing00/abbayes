@@ -10,6 +10,7 @@ Change the values to generate plots
 - a = BinaryModel(50, 50)  # success, failures
 - b = BinaryModel(60, 40)
 
-    pip install -r requirements
-    python bayes.py
+
+        pip install -r requirements
+        python bayes.py
     
